@@ -30,5 +30,4 @@ Explanation:
 
 
 -*Example
-
-![alt text](https://github.com/suphakin-th/travel_map_plot/blob/main/exam.png?raw=true)
+![exam](https://github.com/suphakin-th/travel_map_plot/assets/40260817/9322d01e-7252-4955-8bc0-3021a4a7aacb)
