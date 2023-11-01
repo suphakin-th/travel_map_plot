@@ -21,6 +21,7 @@ for index, row in df.iterrows():
 
 # Display the map
 m
+```
 
 Explanation:
 
