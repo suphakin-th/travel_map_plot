@@ -27,3 +27,8 @@ Explanation:
 - The code is enclosed within triple backticks (```) to format it as a code block.
 - This Markdown code is meant to be placed in a Markdown cell in a Jupyter Notebook.
 - The Python code will be properly formatted and highlighted when rendered in the Markdown cell.
+
+
+-*Example
+
+![alt text](https://github.com/suphakin-th/travel_map_plot/blob/main/exam.png?raw=true)
